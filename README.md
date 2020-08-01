@@ -23,7 +23,8 @@
 ## 📊 Technical Skills
 <!--START_SECTION:waka-->
 ```
-java    ██████████████████░░░░░░░ 
+
+SQL     ███████████████░░░░░░░░░░
 Php     ██████░░░░░░░░░░░░░░░░░░░ 
 SQL     ███████████████░░░░░░░░░░ 
 c#      ██████░░░░░░░░░░░░░░░░░░░
@@ -66,5 +67,7 @@ c       ███████████░░░░░░░░░░░░░
 [instagram]: https://www.instagram.com/chathura_sanjaya_rathnayaka
 
 [linkedin]: https://www.linkedin.com/in/chathura-rathnayaka-a6286a19a/
+
 [freesourcecodelk]: https://freesourcecodelk.blogspot.com/
+
 [Customize boss]: https://www.youtube.com/channel/UCxMNzCTa8-UOnudzoVYYzcQ?view_as=subscriber
