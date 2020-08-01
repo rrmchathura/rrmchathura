@@ -48,7 +48,7 @@
 
 <img align="left" alt="rrmchathura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmchathura&show_icons=true&hide_border=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura)](https://github.com/rrmchathura/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura&layout=compact)](https://github.com/rrmchathura/github-readme-stats)
 
 [website]: https://freesourcecodelk.blogspot.com
 [twitter]: https://twitter.com/Rathnayaka22700
