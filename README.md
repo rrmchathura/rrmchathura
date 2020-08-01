@@ -26,7 +26,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
--[Make Your Desktop Look More Premium 2020 || Rainmeter Customize](https://www.youtube.com/watch?v=cc83ACkqtfc&t=85s)
+- [Make Your Desktop Look More Premium 2020 || Rainmeter Customize](https://www.youtube.com/watch?v=cc83ACkqtfc&t=85s)
 - [Premium Desktop - Customize Windows 10 || Rainmeter](https://www.youtube.com/watch?v=1Hy6hECXPws)
 - [Give Your Desktop a Fresh Look Today || Paranoid Theme](https://www.youtube.com/watch?v=E-IRQVfr-XA&t=65s)
 - [Morning desktop - Customize like a Boss || Rainmeter](https://www.youtube.com/watch?v=IaoWOzinw2c)
@@ -37,7 +37,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
--[Student Information System-(java)](https://freesourcecodelk.blogspot.com/2020/07/student-information-system.html)
+- [Student Information System-(java)](https://freesourcecodelk.blogspot.com/2020/07/student-information-system.html)
 - [Social Media Site-(php)](https://freesourcecodelk.blogspot.com/2020/05/social-media-site-this-is-web.html)
 - [School Management System-(java)](https://freesourcecodelk.blogspot.com/2020/07/school-management-system.html)
 - [Online Accident Report System-(php)](https://freesourcecodelk.blogspot.com/2020/02/online-accident-report-system.html)
