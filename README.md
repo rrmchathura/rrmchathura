@@ -33,7 +33,7 @@
 [<img align="left" alt="MySQL" width="26px" src="mysql.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="github.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="github.png" />]
 [<img align="left" alt="HTML5" width="26px" src="terminal.png" />][webdevplaylist]
 
 <br />
