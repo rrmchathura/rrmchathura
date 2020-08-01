@@ -17,24 +17,7 @@
 
 <br />
 
-### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" img="visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" img="html.png" />]
-[<img align="left" alt="CSS3" width="26px" img="css.png" />]
-[<img align="left" alt="Sass" width="26px" img="sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" img="javascript.png" />]
-[<img align="left" alt="React" width="26px" img="react.png" />]
-[<img align="left" alt="Gatsby" width="26px" img="gatsby.png" />]
-[<img align="left" alt="GraphQL" width="26px" img="graphql.png" />]
-[<img align="left" alt="Node.js" width="26px" img="nodejs.png" />]
-[<img align="left" alt="Deno" width="26px" img="deno.png" />]
-[<img align="left" alt="SQL" width="26px" img="sql.png" />]
-[<img align="left" alt="MySQL" width="26px" img="mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" img="mongodb.png" />]
-[<img align="left" alt="Git" width="26px" img="git.png" />]
-[<img align="left" alt="GitHub" width="26px" img="github.png" />]
-[<img align="left" alt="HTML5" width="26px" img="terminal.png" />]
 
 <br />
 <br />
