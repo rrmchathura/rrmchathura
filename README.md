@@ -30,9 +30,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura&layout=compact)](https://github.com/rrmchathura/github-readme-stats)
 
 <!--END_SECTION:waka-->
-<br />
 
----
+<br />
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
