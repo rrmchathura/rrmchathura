@@ -3,11 +3,11 @@
 ## I'm a University student, Developer!
 - 🔭 I’m currently working on a [freesourcecodelk][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and listen songs
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to draw and listen songs.
 
-### Connect with me:
+# Connect with me:
 
 [<img align="left" alt="freesourcecodelk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -24,7 +24,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+# 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Make Your Desktop Look More Premium 2020 || Rainmeter Customize](https://www.youtube.com/watch?v=cc83ACkqtfc&t=85s)
 - [Premium Desktop - Customize Windows 10 || Rainmeter](https://www.youtube.com/watch?v=1Hy6hECXPws)
@@ -35,7 +35,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+# 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Student Information System-(java)](https://freesourcecodelk.blogspot.com/2020/07/student-information-system.html)
 - [Social Media Site-(php)](https://freesourcecodelk.blogspot.com/2020/05/social-media-site-this-is-web.html)
