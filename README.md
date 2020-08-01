@@ -1,4 +1,4 @@
-### Hi there, I'm Chathura Sanjaya- aka [freesourcecodelk][website] 👋 | You may also know me by [Customize boss][youtube] 😉
+### Hi there, I'm Chathura Sanjaya- aka [freesourcecodelk] 👋 | You may also know me by [Customize boss] 😉
 
 ## I'm a Developer, and University Student!
 - 🔭 I’m currently working on a [freesourcecodelk]!
@@ -51,8 +51,6 @@ c               ███████████░░░░░░░░░░�
 
 <img align="left" alt="CreatorGhost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmchathura&show_icons=true&hide_border=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura&layout=compact)](https://github.com/rrmchathura/github-readme-stats)
-
 
 [website]: [https://freesourcecodelk.blogspot.com/]
 [twitter]: [https://twitter.com/Rathnayaka22700]
@@ -60,8 +58,4 @@ c               ███████████░░░░░░░░░░�
 [instagram]: [https://www.instagram.com/chathura_sanjaya_rathnayaka/?hl=en]
 [linkedin]: [https://www.linkedin.com/in/chathura-rathnayaka-a6286a19a/]
 [freesourcecodelk]: https://freesourcecodelk.blogspot.com/
-
-
-
-
-
+[Customize boss]: https://www.youtube.com/channel/UCxMNzCTa8-UOnudzoVYYzcQ?view_as=subscriber
