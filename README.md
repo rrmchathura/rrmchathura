@@ -26,22 +26,22 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Make Your Desktop Look More Premium 2020 || Rainmeter Customize](https://www.youtube.com/watch?v=cc83ACkqtfc&t=85s)
-- [Premium Desktop - Customize Windows 10 || Rainmeter!!](https://www.youtube.com/watch?v=1Hy6hECXPws)
-- [Give Your Desktop a Fresh Look Today || Paranoid Theme](https://www.youtube.com/watch?v=E-IRQVfr-XA&t=65s)
-- [Morning desktop - Customize like a Boss || Rainmeter](https://www.youtube.com/watch?v=IaoWOzinw2c)
-- [cakeOS - New windows 10 Theme - 2019](https://www.youtube.com/watch?v=jcvNYXsvi1k&t=265s)
+- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
+- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
+- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
+- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
 <!-- YOUTUBE:END -->
 
 ---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Java: Student Information System](https://freesourcecodelk.blogspot.com/2020/07/student-information-system.html)
-- [Java - School Management System](https://freesourcecodelk.blogspot.com/2020/07/school-management-system.html)
-- [Weather Application](https://freesourcecodelk.blogspot.com/2020/02/weather-application.html)
-- [Social Media Site](https://freesourcecodelk.blogspot.com/2020/05/social-media-site-this-is-web.html)
-- [Online Accident Report System!](https://freesourcecodelk.blogspot.com/2020/02/online-accident-report-system.html)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
 
