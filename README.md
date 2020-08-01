@@ -1,7 +1,7 @@
 ### Hi there, I'm Chathura Sanjaya- aka [freesourcecodelk] 👋 | You may also know me by [Customize boss] 😉
 
 ## I'm a Developer, and University Student!
-- 🔭 I’m currently studying on a Plymouth University!
+- 🔭 I’m currently studying Plymouth University!
 - 👨‍💻 All of my projects are available at **[freesourcecodelk][website]**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
