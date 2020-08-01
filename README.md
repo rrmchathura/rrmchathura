@@ -50,15 +50,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura&layout=compact)](https://github.com/rrmchathura/github-readme-stats)
 
-![rrmchathura's private github stats](https://github-readme-stats.vercel.app/api?username=rrmchathura&count_private=true&theme=radical)
-
-<a href="https://github.com/rrmchathura/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rrmchathura&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/rrmchathura/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rrmchathura&repo=convoychat" />
-</a>
-
 [website]: https://freesourcecodelk.blogspot.com
 [twitter]: https://twitter.com/Rathnayaka22700
 [youtube]: https://www.youtube.com/channel/UCxMNzCTa8-UOnudzoVYYzcQ
