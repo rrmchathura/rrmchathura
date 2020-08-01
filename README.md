@@ -50,7 +50,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura&layout=compact)](https://github.com/rrmchathura/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura)](https://github.com/rrmchathura/github-readme-stats)
+![rrmchathura's github stats](https://github-readme-stats.vercel.app/api?username=rrmchathura&count_private=true)
 
 [website]: https://freesourcecodelk.blogspot.com
 [twitter]: https://twitter.com/Rathnayaka22700
