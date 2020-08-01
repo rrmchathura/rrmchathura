@@ -57,10 +57,14 @@ c       ███████████░░░░░░░░░░░░░
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura&layout=compact)](https://github.com/rrmchathura/github-readme-stats)
 
 
-[website]: [https://freesourcecodelk.blogspot.com/]
-[twitter]: [https://twitter.com/Rathnayaka22700]
-[youtube]: [https://www.youtube.com/channel/UCxMNzCTa8-UOnudzoVYYzcQ?view_as=subscriber]
-[instagram]: [https://www.instagram.com/chathura_sanjaya_rathnayaka/?hl=en]
-[linkedin]: [https://www.linkedin.com/in/chathura-rathnayaka-a6286a19a/]
+[website]: https://freesourcecodelk.blogspot.com
+
+[twitter]: https://twitter.com/Rathnayaka22700
+
+[youtube]: https://www.youtube.com/channel/UCxMNzCTa8-UOnudzoVYYzcQ
+
+[instagram]: https://www.instagram.com/chathura_sanjaya_rathnayaka
+
+[linkedin]: https://www.linkedin.com/in/chathura-rathnayaka-a6286a19a/
 [freesourcecodelk]: https://freesourcecodelk.blogspot.com/
 [Customize boss]: https://www.youtube.com/channel/UCxMNzCTa8-UOnudzoVYYzcQ?view_as=subscriber
