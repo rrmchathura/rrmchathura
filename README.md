@@ -19,22 +19,22 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="git.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="css.png" />]
+[<img align="left" alt="Sass" width="26px" src="sass.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="javascript.png" />]
+[<img align="left" alt="React" width="26px" src="react.png" />]
+[<img align="left" alt="Gatsby" width="26px" src="gatsby.png" />]
+[<img align="left" alt="GraphQL" width="26px" src="graphql.png" />
+[<img align="left" alt="Node.js" width="26px" src="nodejs.png" />]
+[<img align="left" alt="Deno" width="26px" src="deno.png" />]
+[<img align="left" alt="SQL" width="26px" src="sql.png" />]
+[<img align="left" alt="MySQL" width="26px" src="mysql.png" />]
+[<img align="left" alt="MongoDB" width="26px" src="mongodb.png" />]
+[<img align="left" alt="Git" width="26px" src="git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="github.png" />]
-[<img align="left" alt="HTML5" width="26px" src="terminal.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="terminal.png" />]
 
 <br />
 <br />
