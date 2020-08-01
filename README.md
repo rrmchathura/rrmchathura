@@ -1,12 +1,19 @@
 ### Hi there, I'm Chathura Sanjaya- aka [freesourcecodelk] 👋 | You may also know me by [Customize boss] 😉
 
 ## I'm a Developer, and University Student!
-- 🔭 I’m currently working on a [freesourcecodelk]!
+- 🔭 I’m currently studying on a Plymouth University!
 - 👨‍💻 All of my projects are available at [freesourcecodelk][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 📫 How to reach me **rrmchathura@gmail.com**
 - ⚡ Fun fact: I love to play chess and some computer games
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" alt="flutter" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" alt="dart" width="20" height="20"/></p>
+
+<a href="https://github.com/shafinr23">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafinr23&repo=mindDiary&theme=dark" />
+</a>
 
 ### Connect with me:
 
