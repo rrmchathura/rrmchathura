@@ -50,6 +50,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura&layout=compact)](https://github.com/rrmchathura/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura)](https://github.com/rrmchathura/github-readme-stats)
+
 [website]: https://freesourcecodelk.blogspot.com
 [twitter]: https://twitter.com/Rathnayaka22700
 [youtube]: https://www.youtube.com/channel/UCxMNzCTa8-UOnudzoVYYzcQ
