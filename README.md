@@ -46,7 +46,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmchathura&show_icons=true&hide_border=true" />
+<img align="left" alt="rrmchathura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmchathura&show_icons=true&hide_border=true&theme=radical" />
 
 [website]: https://freesourcecodelk.blogspot.com
 [twitter]: https://twitter.com/Rathnayaka22700
