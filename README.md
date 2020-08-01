@@ -26,11 +26,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Make Your Desktop Look More Premium 2020 || Rainmeter Customize](https://www.youtube.com/watch?v=cc83ACkqtfc&t=85s)
-- [Premium Desktop - Customize Windows 10 || Rainmeter!!](https://www.youtube.com/watch?v=1Hy6hECXPws)
-- [Give Your Desktop a Fresh Look Today || Paranoid Theme](https://www.youtube.com/watch?v=E-IRQVfr-XA&t=65s)
-- [Morning desktop - Customize like a Boss || Rainmeter](https://www.youtube.com/watch?v=IaoWOzinw2c)
-- [cakeOS - New windows 10 Theme - 2019](https://www.youtube.com/watch?v=jcvNYXsvi1k&t=265s)
+- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
+- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
+- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
+- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
 <!-- YOUTUBE:END -->
 
 ---
