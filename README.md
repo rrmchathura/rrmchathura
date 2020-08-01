@@ -26,11 +26,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Student Information System](https://freesourcecodelk.blogspot.com/2020/07/student-information-system.html)
-- [Social Media Site!!](https://freesourcecodelk.blogspot.com/2020/05/social-media-site-this-is-web.html)
-- [School Management System](https://freesourcecodelk.blogspot.com/2020/07/school-management-system.html)
-- [Online Accident Report System](https://freesourcecodelk.blogspot.com/2020/02/online-accident-report-system.html)
-- [Lottery Number Generator](https://freesourcecodelk.blogspot.com/2020/02/lottery-number-generator_17.html)
+- [Student Information System(java)](https://freesourcecodelk.blogspot.com/2020/07/student-information-system.html)
+- [Social Media Site(php)!!](https://freesourcecodelk.blogspot.com/2020/05/social-media-site-this-is-web.html)
+- [School Management System(java)](https://freesourcecodelk.blogspot.com/2020/07/school-management-system.html)
+- [Online Accident Report System(php)](https://freesourcecodelk.blogspot.com/2020/02/online-accident-report-system.html)
+- [Lottery Number Generator(c#)](https://freesourcecodelk.blogspot.com/2020/02/lottery-number-generator_17.html)
 <!-- YOUTUBE:END -->
 
 ---
