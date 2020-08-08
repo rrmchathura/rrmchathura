@@ -1,4 +1,4 @@
-### Hi there, I'm Chathura Sanjaya- aka [freesourcecodelk] 👋 | You may also know me by [Customize boss] 😉
+### Hi there, I'm Chathura Sanjaya Rathnayaka [freesourcecodelk] 👋 | You may also know me by [Customize boss] 😉
 
 ## I'm a Developer, and University Student!
 - 🔭 I’m currently studying Plymouth University!
