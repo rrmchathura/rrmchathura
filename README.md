@@ -1,11 +1,11 @@
 ### Hi there, I'm Chathura Sanjaya Rathnayaka [freesourcecodelk] 👋 | You may also know me by [Customize boss] 😉
 
-## I'm a Developer, and University Student!
+## I'm a Java Developer, and University Student!
 - 🔭 I’m currently studying Plymouth University!
 - 👨‍💻 All of my projects are available at **[freesourcecodelk][website]**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **rrmchathura@gmail.com**
 - ⚡ Fun fact: I love to play computer games
 
