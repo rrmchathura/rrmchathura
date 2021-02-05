@@ -54,7 +54,9 @@
 - [cakeOS  - New windows 10 Theme - 2019](https://www.youtube.com/watch?v=jcvNYXsvi1k)
 <!-- YOUTUBE:END -->
 
----
+# 😎😎 My Status
+<img align="left" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 <!--
 <img align="left" alt="CreatorGhost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmchathura&show_icons=true&hide_border=true&theme=radical" />
 -->
