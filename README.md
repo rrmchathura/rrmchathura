@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rrmchathura/rrmchathura/main/developer.gif">
 
-### Hi there, I'm Chathura Sanjaya Rathnayaka [freesourcecodelk] 👋 | You may also know me by [Customize boss] 😉
+### Hi there, I'm Chathura Sanjaya Rathnayaka [freesourcecodelk]👋 | You may also know me by [Customize boss] & [CodingWithChathura] 😉
 
 
 [![Instagram Badge](https://img.shields.io/badge/-chathu._98-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/chathu._98/)](https://instagram.com/chathu._98)
@@ -70,6 +70,8 @@
 [twitter]: https://twitter.com/Rathnayaka22700
 
 [youtube]: https://www.youtube.com/channel/UCxMNzCTa8-UOnudzoVYYzcQ
+
+[CodingWithChathura]: https://www.youtube.com/channel/UCbFPpBEONobzA0ouBU9rjEQ
 
 [instagram]: https://www.instagram.com/chathura_sanjaya_rathnayaka
 
