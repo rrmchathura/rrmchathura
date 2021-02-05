@@ -33,8 +33,10 @@
 
 ## 📊 Skills
 <!--START_SECTION:waka-->
+## MY GIT STATS
+![rrmchathura's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrmchathura&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura&layout=compact)](https://github.com/rrmchathura/github-readme-stats)
 
 <!--END_SECTION:waka-->
 <br />
