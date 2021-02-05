@@ -3,7 +3,7 @@
 
 
 [![Instagram Badge](https://img.shields.io/badge/-chathu._98-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/chathu._98/)](https://instagram.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-ChathuraRathnayaka-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chathura-sanjaya-rathnayaka-a6286a19a/)](https://www.linkedin.com/in/dhanrajdc7/)
+[![Linkedin Badge](https://img.shields.io/badge/-ChathuraRathnayaka-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chathura-sanjaya-rathnayaka-a6286a19a/)](https://www.linkedin.com/in/chathura-sanjaya-rathnayaka-a6286a19a)
 [![Youtube Badge](https://img.shields.io/badge/-CodingWithChathura-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/)](https://www.youtube.com/channel/UCbFPpBEONobzA0ouBU9rjEQ)
 [![Twitter Badge](https://img.shields.io/badge/-Rathnayaka22700-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Rathnayaka22700)](https://www.twitter.com/Rathnayaka22700)
 
