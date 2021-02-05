@@ -1,5 +1,6 @@
 <a href="https://www.youtube.com/channel/UCbFPpBEONobzA0ouBU9rjEQ"><img align="center" src="https://raw.githubusercontent.com/rrmchathura/rrmchathura/main/chathura.jpg"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrmchathura&label=Profile%20views&color=129e00&style=plastic" alt="rrmchathura" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rrmchathura/rrmchathura/main/developer.gif">
 
 ### Hi there, I'm Chathura Sanjaya Rathnayaka [freesourcecodelk] 👋 | You may also know me by [Customize boss] 😉
@@ -54,9 +55,9 @@
 <!-- YOUTUBE:END -->
 
 ---
-
+<!--
 <img align="left" alt="CreatorGhost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmchathura&show_icons=true&hide_border=true&theme=radical" />
-
+-->
 
 
 
