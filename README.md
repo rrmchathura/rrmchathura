@@ -11,6 +11,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-CodingWithChathura-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/)](https://www.youtube.com/channel/UCbFPpBEONobzA0ouBU9rjEQ)
 [![Youtube Badge](https://img.shields.io/badge/-CustomizeBoss-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/)](https://www.youtube.com/channel/UCxMNzCTa8-UOnudzoVYYzcQ?view_as=subscriber)
 [![Twitter Badge](https://img.shields.io/badge/-Rathnayaka22700-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Rathnayaka22700)](https://www.twitter.com/codingpotter)
+[![Blog Badge](https://img.shields.io/badge/-Freesourcecodelk-orange?style=plastic-square&logo=twitter&logoColor=white&link=https://https://freesourcecodelk.blogspot.com)](https://freesourcecodelk.blogspot.com/)
 
 ## I'm a Java Developer, and University Student!
 - 🔭 I’m currently studying Plymouth University!
