@@ -1,4 +1,4 @@
-name: Latest YouTube Videos
+name: CodingWithChathura YouTube Videos
 on:
   schedule:
     # Runs every hour
@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCxMNzCTa8-UOnudzoVYYzcQ"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCbFPpBEONobzA0ouBU9rjEQ"
