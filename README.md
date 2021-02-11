@@ -49,11 +49,7 @@
 
 ### 📺 Latest YouTube Videos || Customize Boss
 <!-- YOUTUBE:START -->
-- [Make Your Desktop Look More Premium 2020 || Rainmeter Customize](https://www.youtube.com/watch?v=cc83ACkqtfc)
-- [Premium Desktop - Customize Windows 10 || Rainmeter](https://www.youtube.com/watch?v=1Hy6hECXPws)
-- [Give Your Desktop a Fresh Look Today || Paranoid Theme](https://www.youtube.com/watch?v=E-IRQVfr-XA)
-- [Morning desktop - Customize like a Boss || Rainmeter](https://www.youtube.com/watch?v=IaoWOzinw2c)
-- [cakeOS  - New windows 10 Theme - 2019](https://www.youtube.com/watch?v=jcvNYXsvi1k)
+- [Student Information System Using | C++ || and Qt Framework with Full Source Code](https://www.youtube.com/watch?v=DVkxn5-zgQU)
 <!-- YOUTUBE:END -->
 
 ### 📺 CodingWithChathura YouTube Videos || CodingWithChathura
