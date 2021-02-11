@@ -56,7 +56,7 @@
 - [cakeOS  - New windows 10 Theme - 2019](https://www.youtube.com/watch?v=jcvNYXsvi1k)
 <!-- YOUTUBE:END -->
 
-### 📺 Latest YouTube Videos || CodingWithChathura
+### 📺 CodingWithChathura YouTube Videos || CodingWithChathura
 <!-- YOUTUBE:START -->
 
 <!-- YOUTUBE:END -->
