@@ -14,7 +14,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Rathnayaka22700-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Rathnayaka22700)](https://www.twitter.com/codingpotter)
 [![Blogger Badge](https://img.shields.io/badge/-Freesourcecodelk-orange?style=plastic-square&logo=blogger&logoColor=white&link=https://https://freesourcecodelk.blogspot.com)](https://freesourcecodelk.blogspot.com/)
 
-## I'm a Java Developer, and University Student!
+## I'm a Java Developer.
 - 🔭 I’m currently studying Plymouth University!
 - 👨‍💻 All of my projects are available at **[freesourcecodelk][website]**
 - 🌱 I’m currently learning everything 🤣
