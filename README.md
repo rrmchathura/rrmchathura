@@ -15,7 +15,7 @@
 [![Blogger Badge](https://img.shields.io/badge/-Freesourcecodelk-orange?style=plastic-square&logo=blogger&logoColor=white&link=https://https://freesourcecodelk.blogspot.com)](https://freesourcecodelk.blogspot.com/)
 
 ## I'm a Java Developer.
-- 🔭 I’m currently studying Plymouth University!
+- 🔭 I’m graduated Plymouth University UK!
 - 👨‍💻 All of my projects are available at **[freesourcecodelk][website]**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
