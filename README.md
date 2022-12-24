@@ -28,9 +28,9 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
 
 <br />
@@ -39,9 +39,9 @@
 
 ## 📊 Skills
 <!--START_SECTION:waka-->
-
-![rrmchathura's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrmchathura&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrmchathura&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![rrmchathura's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrmchathura&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrmchathura&theme=dark" alt="rrmchathura" /></p>
 <!--END_SECTION:waka-->
